@@ -27,7 +27,7 @@
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=iko070&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   <!-- wakatime -->
-  <a href="https://wakatime.com/badge/user/83474860-2e48-4ce8-8d9b-5f4af9d5acc6/project/4a6a3b73-51dc-41d5-b33f-f5cc6628715b"><img src="https://wakatime.com/badge/user/83474860-2e48-4ce8-8d9b-5f4af9d5acc6/project/4a6a3b73-51dc-41d5-b33f-f5cc6628715b.svg" alt="wakatime"></a>
+  <a href="https://wakatime.com/@83474860-2e48-4ce8-8d9b-5f4af9d5acc6"><img src="https://wakatime.com/badge/user/83474860-2e48-4ce8-8d9b-5f4af9d5acc6.svg" alt="Total time coded since Nov 30 2025" /></a>
 </div>
 
 <table>
