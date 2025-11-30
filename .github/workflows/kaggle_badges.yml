@@ -35,17 +35,21 @@ jobs:
 
       - name: Commit and Push SVG files
         run: |
-          # 确保在仓库根目录
           cd "$GITHUB_WORKSPACE"
 
-          # 配置 git 身份（用 global 可以避免不在 repo 时的报错）
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
-
-          # 处理某些 runner 上的安全目录检查问题（dubious ownership）
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
 
-          # 提交并推送
-          git add ./kaggle-badges/* ./kaggle-plates/*
+          # 只有当目录存在并有文件时才 add
+          if [ -d "kaggle-badges" ]; then
+            git add kaggle-badges || echo "No files in kaggle-badges"
+          fi
+
+          if [ -d "kaggle-plates" ]; then
+            git add kaggle-plates || echo "No files in kaggle-plates"
+          fi
+
           git commit -m "Add generated SVG files" || echo "No changes to commit"
           git push
+
