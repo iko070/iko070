@@ -16,13 +16,20 @@
 
 <div>&nbsp;</div>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,atom,autocad,aws,azure,bash,c,css,docker,fastapi,flask,gcp,git,githubactions,gitlab,html,js,matlab,mysql,opencv,postgres,py,pytorch,r,raspberrypi,sklearn,sqlite,tensorflow,vscode,vim&perline=10" />
+  </a>
+</p>
+
+
 <table>
 
 <tr><td>
 
-### 🤺 About Me
+### About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/iko070/iko070/assets/images/lying_flat.jpg" />
+<img align="right" width="150" src="https://cdn.jsdelivr.net/gh/iko070/iko070/assets/images/lying_flat.jpg" />
 
 <p>&emsp;&emsp;Algorithms, Image Recognition, Travel and Lying Flat...</p>
 <p>&emsp;&emsp;Get up at 7am every morning</p>
