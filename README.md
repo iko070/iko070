@@ -22,6 +22,13 @@
   </a>
 </p>
 
+<div>
+  <a href="https://www.kaggle.com/shiyunlong07"><img src="https://img.shields.io/badge/Kaggle-Expert-purple" /></a>&emsp;
+  <!-- visitor -->
+  <img src="https://komarev.com/ghpvc/?username=iko070&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+  <!-- wakatime -->
+  <a href="https://wakatime.com/badge/user/83474860-2e48-4ce8-8d9b-5f4af9d5acc6/project/4a6a3b73-51dc-41d5-b33f-f5cc6628715b"><img src="https://wakatime.com/badge/user/83474860-2e48-4ce8-8d9b-5f4af9d5acc6/project/4a6a3b73-51dc-41d5-b33f-f5cc6628715b.svg" alt="wakatime"></a>
+</div>
 
 <table>
 
@@ -29,13 +36,11 @@
 
 ### About Me
 
-<img align="right" width="150" src="https://cdn.jsdelivr.net/gh/iko070/iko070/assets/images/lying_flat.jpg" />
+<img align="right" width="130" src="https://cdn.jsdelivr.net/gh/iko070/iko070/assets/images/lying_flat.jpg" />
 
 <p>&emsp;&emsp;Algorithms, Image Recognition, Travel and Lying Flat...</p>
 <p>&emsp;&emsp;Get up at 7am every morning</p>
-<p>&emsp;&emsp;大模型善后</p>
+<p>&emsp;&emsp;CUDA and me, out of memory</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </tr></td>
-
-<tr><td>
