@@ -9,9 +9,10 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/iko070/iko070/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/iko070/iko070/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/iko070/iko070/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/iko070/iko070/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /> -->
+  <!-- <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/iko070/iko070/profile-snake-contrib/github-contribution-grid-snake.svg" /> -->
+  <!-- <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/iko070/iko070/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /> -->
+  ![](https://raw.githubusercontent.com/iko070/iko070/main/profile-snake-contrib/github-contribution-grid-snake.svg)
 </picture>
 
 <div>&nbsp;</div>
